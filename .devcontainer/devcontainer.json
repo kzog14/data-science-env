@@ -24,7 +24,7 @@
         "editor.fontSize": 14,
         "editor.wordWrap": "bounded",
         "files.autoSave": "off",
-        "python.linting.enabled": false,
+        "python.linting.pylintEnabled": false,
         "terminal.integrated.fontSize": 14,
         "workbench.colorTheme": "Iceberg Light",
         "workbench.iconTheme": "material-icon-theme"
