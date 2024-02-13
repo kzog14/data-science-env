@@ -14,6 +14,7 @@
       "extensions": [
         "cocopon.iceberg-theme",
         "eamodio.gitlens",
+        "mechatroner.rainbow-csv",
         "ms-toolsai.jupyter",
         "ms-python.python",
         "MS-CEINTL.vscode-language-pack-ja",
