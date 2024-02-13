@@ -12,9 +12,21 @@
     },
     "vscode": {
       "extensions": [
+        "cocopon.iceberg-theme",
+        "eamodio.gitlens",
         "ms-toolsai.jupyter",
-        "ms-python.python"
-      ]
+        "ms-python.python",
+        "MS-CEINTL.vscode-language-pack-ja",
+        "MS-vsliveshare.vsliveshare",
+        "PKief.material-icon-theme"
+      ],
+      "settings": {
+        "editor.fontSize": 14,
+        "editor.wordWrap": "bounded",
+        "terminal.integrated.fontSize": 14,
+        "workbench.colorTheme": "Iceberg Light",
+        "workbench.iconTheme": "material-icon-theme"
+      }
     }
   }
 }
